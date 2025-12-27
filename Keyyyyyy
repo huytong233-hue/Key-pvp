@@ -1,7 +1,1 @@
-AddButton({
-    Title = "Tik Tok",
-    Description = "Click(Copy)",
-    Callback = function()
-        setclipboard("https://www.tiktok.com/@hnc_roblox?_t=ZS-8ywjDgNQ1ah&_r=1");
-    end
-});
+--// This file was created by XHider https://discord.com/invite/E2N7w35zkt

@@ -1,7 +1,7 @@
-v16.Home:AddButton({
-    Title = "Key pvp",
+AddButton({
+    Title = "Tik Tok",
     Description = "Click(Copy)",
     Callback = function()
-        setclipboard("tIljtIJltIjltjtiljtIltjitjft");
+        setclipboard("https://www.tiktok.com/@hnc_roblox?_t=ZS-8ywjDgNQ1ah&_r=1");
     end
 });

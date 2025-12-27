@@ -2,6 +2,6 @@ v16.Home:AddButton({
     Title = "Key pvp",
     Description = "Click(Copy)",
     Callback = function()
-        tIljtIJltIjltjtiljtIltjitjft
+        setclipboard("tIljtIJltIjltjtiljtIltjitjft");
     end
 });
